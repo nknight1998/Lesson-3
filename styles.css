@@ -58,7 +58,7 @@ h3 {
 
 }
 header{
-    background-color: #2f3061;
+    background-color: #8b0000;
     color: #f7fff7;
     text-align: center;
 }
@@ -71,14 +71,14 @@ header{
 }
 .projects .btn {
     color: #f7fff7;
-    background: #2f3061;
+    background: #00563B;
     text-decoration: none;
     padding: 8px;
     border-radius: 4px;
     display: inline-block;
 }
 .projects .btn:hover {
-    background: rgba(47,48,97,80%);
+    background: #00563B(47,48,97,80%);
 }
 .projects-item{
     overflow: hidden;
@@ -91,7 +91,7 @@ header{
     margin-top: 0;
 }
 .work-experience {
-    background-color: #a1c6d7;
+    background-color: #D4AF37;
 }
 .job-item {
     display: grid;
